@@ -1,5 +1,5 @@
 {
-  "name": "Rust RCON-API",
+  "name": "Rust_RCON-API",
   "version": "0.1.0",
   "description": "Proof of concept / early test of a web -> rcon api",
   "main": "app.js",
